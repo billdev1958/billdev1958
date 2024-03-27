@@ -1,6 +1,9 @@
 <h1 align="center">Que tal, soy Billy</h1>
 <h3 align="center">Desarrollo soluciones tecnologicas</h3>
 
+<h4 align="center">Soy un programador que a pesar de ser fullstack mi fuerte es el backend, actualmente mi lenguaje principal es golang.</h4>
+
+
 - 🌱 Actualmente las tecnologias en las que estoy enfocandome son **Administracion de sistemas linux, Desarrollo en la nube y Backend**
 
 - 👨‍💻 Puedes ver mis proyectos en: [https://github.com/billdev1958](https://github.com/billdev1958)
