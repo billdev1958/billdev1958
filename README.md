@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://github.com/billdev1958.png?size=150" alt="Foto de Perfil de Billy" width="150" height="150" style="border-radius: 50%;">
-  <h1>Que tal, soy Billy</h1>
+  <img src="https://github.com/billdev1958.png?size=150" alt="Foto de Perfil de Billy" width="150" height="150" style="border-radius: 50%;">
+    <h1>Que tal, soy Billy</h1>
   <h3>Ingeniero en Computación | Product Owner (PO) con Fuerte Base Técnica</h3>
 </div>
 
